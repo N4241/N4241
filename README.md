@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nayan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on buiding web apps
 - 📫 Reach me at @Nayan.6342 on instagram
 
 <!---
